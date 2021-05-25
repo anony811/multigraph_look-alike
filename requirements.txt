@@ -1,0 +1,10 @@
+hashlib
+itertools
+collections
+torch==1.6.0
+tqdm==4.60.0
+numpy==1.19.5
+pandas==1.1.5
+PyYAML==5.4.1
+sklearn==0.24.2
+
